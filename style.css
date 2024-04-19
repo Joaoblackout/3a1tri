@@ -3,11 +3,11 @@
 
 :root {
     --cor-de-fundo: #000000;
-    --verde: #e433e4de;
+    --verde: #4227bd;
     --branco: #3f34d8;
     --botao-ativo: #3A375E;
     --botao-inativo: rgb(194, 76, 188);
-    --texto-fundo: rgb(113, 105, 206);
+    --texto-fundo: rgb(0, 0, 0);
 }
 
 
